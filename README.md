@@ -3,7 +3,7 @@ Code for CS4441 project
 
 
 To benchmark:
-clone project, navigate to YCSB directory, build, then run ./ycsbc for further instructions.
+clone project, navigate to YCSB-C directory, build, then run ./ycsbc for further instructions.
 
 
 ***ADD PROPER INSTRUCTIONS LATER***
