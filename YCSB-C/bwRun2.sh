@@ -1,6 +1,6 @@
 #!/bin/bash
 
-repeat_num=1
+repeat_num=3
 db_names=("bwtree")
 
 trap 'kill $(jobs -p)' SIGINT

@@ -1,0 +1,6 @@
+[submodule "bw-tree"]
+	path = bw-tree
+	url = https://github.com/dbgroup-nagoya-u/bw-tree
+[submodule "YCSB-C/YCSB-C/bw-tree"]
+	path = YCSB-C/YCSB-C/bw-tree
+	url = https://github.com/dbgroup-nagoya-u/bw-tree
